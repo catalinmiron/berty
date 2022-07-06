@@ -7,7 +7,7 @@ require (
 	berty.tech/go-ipfs-log v1.8.0
 	berty.tech/go-ipfs-repo-encrypted v1.1.3
 	berty.tech/go-orbit-db v1.17.1
-	berty.tech/ipfs-webui-packed v1.0.0-v2.11.4-1
+	berty.tech/ipfs-webui-packed v1.0.0-v2.11.4
 	fyne.io/fyne/v2 v2.1.1
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/semver v1.5.0
